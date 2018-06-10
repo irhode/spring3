@@ -13,21 +13,11 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <swagger.springmvc.version>0.5.3</swagger.springmvc.version>
     </properties>
 
     <dependencies>
 
-        <dependency>
-            <groupId>com.mongofactory</groupId>
-            <artifactId>swagger-springmvc</artifactId>
-            <version>${swagger.springmvc.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-webmvc</artifactId>
-            <version>3.2.18.RELEASE</version>
-        </dependency>
+
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
